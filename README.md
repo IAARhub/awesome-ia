@@ -91,7 +91,9 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 3) Lenguajes y Librerias
 
 ### Python
-[Python](https://www.python.org/downloads/) 
+[Python](https://www.python.org/downloads/) Lenguaje de programación muy popular en Ciencia de Datos.
+[Serpent](https://github.com/ethereum/wiki/wiki/Serpent) Lenguaje de programación inspirado en Python utilizado para contratos inteligentes en Ethereum.
+
 
 #### Distribuciones
 * [Anaconda](https://anaconda.org/anaconda/python)  
@@ -120,27 +122,32 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ### Javascript
 
+#### Robotic Process Automation
+* [RobotJS](http://robotjs.io/)
+
 ### GO
 
 ## 4) APIs
 
+### Uso general
+
 ## 5) Herramientas
 
-### Data scrapping 
-* Import.io
+### Data scraping / Mineria de datos
+* [Import.IO](https://www.import.io/)
 
 ### Preprocesamiento de datos
 
 ### Visualización de datos
 
-* Tableau
-* PowerBI
+* [Tableau](https://www.tableau.com)
+* [PowerBI](https://powerbi.microsoft.com)
 
 ### Robotic Process Automation
-* Kantu
-* RobotJS
-* UIPath
-* Blueprism
+* [Kantu](https://a9t9.com/download)
+* [UIPath](https://www.uipath.com/community)
+* [Blueprism](https://www.blueprism.com/)
+
 
 ## 6) Papers
 
