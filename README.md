@@ -157,6 +157,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ### Procesamiento de Lenguaje Natural
 * [DialogFlow](https://dialogflow.com/)
 * [BotLibre](https://www.botlibre.com/)
+* [WitAI](https://wit.ai/)
+
 
 
 
@@ -194,6 +196,10 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ### Online
 
+#### Estadistica
+* [Intro to Descriptive Statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
+* [Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)
+
 #### Aprendizaje Automatico
 * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning)
 * [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
@@ -202,7 +208,9 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## 10) Libros
 
-https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+### Aprendizaje Automatico
+* [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) ](https://www.amazon.com/dp/1461471370/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1461471370&pd_rd_wg=RVKqe&pd_rd_r=5X4G9GW1PR485V4PEG4K&pd_rd_w=qLxoF)
+
 
 ## 11) Tutoriales
 
@@ -213,10 +221,30 @@ https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
 
 ## 13) Revistas
 
+### Hispanohablante
+* [Planeta Chatbot](https://planetachatbot.com)
+
+
 ## 14) Organizaciones y comunidades
 
+### Comunidades de IA
+
+#### Argentina
 * [Inteligencia Artificial Argentina](https://www.facebook.com/groups/InteligenciaArtificialArgentina/)
+* [Data Science Argentina](https://www.facebook.com/groups/DataScienceArgentina)
+
+#### Hispanohablante
+* [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468/)
+* [Robotica Humanoide](https://www.facebook.com/groups/1713969502205911/)
+
+#### Global
+* [AI & Deep Learning](https://www.facebook.com/groups/DeepNetGroup/)
+
+
 
 ## 15) Meetups
+
+* [Inteligencia Artificial Argentina](https://www.meetup.com/es-ES/InteligenciaArtificialArgentina)
+* [Argentina Big Data](https://www.meetup.com/es-ES/Argentina-Big-Data-Meetup/)
 
 
