@@ -187,6 +187,11 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## 9) Cursos
 
+### Presenciales
+* [Digital House Data Science](https://www.digitalhouse.com/curso/data-science/)
+* [Digital House IA](https://www.digitalhouse.com/curso/inteligencia-artificial/)
+* [EANT Curso de Ca. de Datos](https://eant.tech/escuela-de-ciencias-de-datos)
+
 ## 10) Libros
 
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
