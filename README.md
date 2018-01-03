@@ -72,6 +72,10 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 #### Global
 
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) 
+* [Google Public Datasets](https://www.google.com/publicdata/directory) 
+* [Datahub](https://datahub.io/#showcase) 
+
+
 
 ### Corpuses
 
@@ -84,13 +88,17 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Wikipedia Español](https://es.wikipedia.org/wiki/Wikipedia:Descargas)
 * [Spanish FrameNet](http://spanishfn.org/corpus)
 
-## 3) Librerias
+## 3) Lenguajes y Librerias
 
 ### Python
+[Python](https://www.python.org/downloads/) 
 
-* Anaconda
-* Numpy
-* Panda
+#### Distribuciones
+* [Anaconda](https://anaconda.org/anaconda/python)  
+
+#### Funciones matematicas
+* Numpy ``` pip install numpy ```
+* Panda ``` pip install panda ```
 
 
 ### R
