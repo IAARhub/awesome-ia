@@ -205,11 +205,28 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+#### Procesamiento del lenguaje humano
+* [Nuevos retos en las tecnologías del lenguaje humano](https://miriadax.net/web/mooc-tlh-nuevos-retos-en-las-tecnologias-del-lenguaje-humano)
+
+#### Robotica
+* [Cognitive Neuroscience Robotics](https://www.edx.org/es/course/cognitive-neuroscience-robotics-part-osakaux-cnr101x)
 
 ## 10) Libros
 
 ### Aprendizaje Automatico
 * [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) ](https://www.amazon.com/dp/1461471370/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1461471370&pd_rd_wg=RVKqe&pd_rd_r=5X4G9GW1PR485V4PEG4K&pd_rd_w=qLxoF)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow) ](http://shop.oreilly.com/product/0636920052289.do)
+
+### Aprendizaje Profundo
+* [Deep Learning) ](http://www.deeplearningbook.org/)
+
+### Ciencias Cognitivas
+* [La nueva ciencia de la mente](https://articulo.mercadolibre.com.uy/MLU-445267794-la-nueva-ciencia-de-la-mente-_JM)
+
+### Interacción Humano-Computador
+* [Usability Engineering](https://www.nngroup.com/books/usability-engineering/)
+* [Handbook of Human-Computer Interaction](https://www.sciencedirect.com/science/book/9780444818621)
+
 
 
 ## 11) Tutoriales
