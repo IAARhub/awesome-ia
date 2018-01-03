@@ -1,5 +1,7 @@
 # Awesome Inteligencia Artificial (IA) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Versión βeta
+
 Lista curada de recursos en Inteligencia Artificial.
 
 ##  !!! EN PROCESO Y SUJETO A REVISIÓN PARITARIA
@@ -96,9 +98,9 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 
 #### Distribuciones
-* [Anaconda](https://anaconda.org/anaconda/python)  
+* [Anaconda](https://anaconda.org/anaconda/python) Distribución popular de Python con varios IDEs y librerías de ciencia de datos incluidas.
 
-#### Funciones matematicas
+#### Análisis matematico
 * [Numpy](http://www.numpy.org/)  ``` pip install numpy ```
 * [SciPy](https://www.scipy.org/)  ``` pip install scipy ```
 * [Pandas](https://pandas.pydata.org/) ``` pip install pandas ```
@@ -160,9 +162,6 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [WitAI](https://wit.ai/)
 
 
-
-
-
 ## 5) Herramientas
 
 ### Data scraping / Mineria de datos
@@ -183,9 +182,20 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## 6) Papers
 
+* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+
+
 ## 7) Whitepapers
 
+### Contratos inteligentes
+* [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
+
 ## 8) Carreras
+
+### Argentina
+#### Buenos Aires
+* [UBA CS exactas, Maestría/Especialización en Explotación de Datos y Descubrimiento del Conocimiento] (http://datamining.dc.uba.ar/datamining/)
+
 
 ## 9) Cursos
 
@@ -228,7 +238,6 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Handbook of Human-Computer Interaction](https://www.sciencedirect.com/science/book/9780444818621)
 
 
-
 ## 11) Tutoriales
 
 ## 12) Canales de youtube
@@ -264,4 +273,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Inteligencia Artificial Argentina](https://www.meetup.com/es-ES/InteligenciaArtificialArgentina)
 * [Argentina Big Data](https://www.meetup.com/es-ES/Argentina-Big-Data-Meetup/)
 
+* [Culturas del transhumanismo critico](https://www.meetup.com/es-ES/Culturas-del-Transhumanismo-Critico/)
+
+## 16) Peliculas y otros.
 
