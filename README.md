@@ -128,3 +128,5 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## 9) Cursos
 
+https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+
