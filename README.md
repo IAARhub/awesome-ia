@@ -80,7 +80,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ### Lenguaje Natural
 
 #### Global
-* [DBPedia](http://wiki.dbpedia.org/Datasets) Corpus en varios idiomas.
+* [DBPedia](http://wiki.dbpedia.org/Datasets) Enciclopedia en varios idiomas.
 
 #### En español
 * [TASS2015](http://www.sepln.org/workshops/tass/tass_data/download.php) Set de tweets en español con labels de sentimiento.
@@ -192,7 +192,31 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Digital House IA](https://www.digitalhouse.com/curso/inteligencia-artificial/)
 * [EANT Curso de Ca. de Datos](https://eant.tech/escuela-de-ciencias-de-datos)
 
+### Online
+
+#### Aprendizaje Automatico
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning)
+* [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+
 ## 10) Libros
 
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+
+## 11) Tutoriales
+
+## 12) Canales de youtube
+
+* [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+## 13) Revistas
+
+## 14) Organizaciones y comunidades
+
+* [Inteligencia Artificial Argentina](https://www.facebook.com/groups/InteligenciaArtificialArgentina/)
+
+## 15) Meetups
+
 
