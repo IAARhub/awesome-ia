@@ -91,8 +91,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 3) Lenguajes y Librerias
 
 ### Python
-[Python](https://www.python.org/downloads/) Lenguaje de programación muy popular en Ciencia de Datos.
-[Serpent](https://github.com/ethereum/wiki/wiki/Serpent) Lenguaje de programación inspirado en Python utilizado para contratos inteligentes en Ethereum.
+* [Python](https://www.python.org/downloads/) Lenguaje de programación muy popular en Ciencia de Datos.
+* [Serpent](https://github.com/ethereum/wiki/wiki/Serpent) Lenguaje de programación inspirado en Python utilizado para contratos inteligentes en Ethereum.
 
 
 #### Distribuciones
@@ -121,6 +121,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ### R
 
 ### Javascript
+
+* [Solidity](https://solidity.readthedocs.io/en/develop/) Lenguaje de programación inspirado en Javascript utilizado para contratos inteligentes en Ethereum.
 
 #### Robotic Process Automation
 * [RobotJS](http://robotjs.io/)
@@ -156,6 +158,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 8) Carreras
 
 ## 9) Cursos
+
+## 10) Libros
 
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
 
