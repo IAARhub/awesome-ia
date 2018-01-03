@@ -2,7 +2,7 @@
 
 Lista curada de recursos en Inteligencia Artificial.
 
-#### EN PROCESO Y SUJETO A REVISIÓN PARITARIA
+##  !!! EN PROCESO Y SUJETO A REVISIÓN PARITARIA
 
 
 ## Abstracto:
@@ -88,6 +88,11 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ### Python
 
+* Anaconda
+* Numpy
+* Panda
+
+
 ### R
 
 ### Javascript
@@ -98,6 +103,10 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## 5) Herramientas
 
+### Data scrapping 
+* Scrapy
+* Import.io
+
 ### Preprocesamiento de datos
 
 ### Visualización de datos
@@ -105,8 +114,17 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * Tableau
 * PowerBI
 
+### Robotic Process Automation
+* Kantu
+* RobotJS
+* UIPath
+* Blueprism
+
 ## 6) Papers
 
 ## 7) Whitepapers
 
+## 8) Carreras
+
+## 9) Cursos
 
