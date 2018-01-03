@@ -77,16 +77,16 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Data Banco Mundial](https://data.worldbank.org/) 
 
 
-### Corpuses
+### Lenguaje Natural
 
 #### Global
-* [DBPedia](http://wiki.dbpedia.org/Datasets) 
+* [DBPedia](http://wiki.dbpedia.org/Datasets) Corpus en varios idiomas.
 
 #### En español
 * [TASS2015](http://www.sepln.org/workshops/tass/tass_data/download.php) Set de tweets en español con labels de sentimiento.
 * [Google N-Grams Español](https://aws.amazon.com/es/datasets/google-books-ngrams/) N-gramas de Google en Español
-* [Wikipedia Español](https://es.wikipedia.org/wiki/Wikipedia:Descargas)
-* [Spanish FrameNet](http://spanishfn.org/corpus)
+* [Wikipedia Español](https://es.wikipedia.org/wiki/Wikipedia:Descargas) Articulos de Wikipedia en Español
+* [Spanish FrameNet](http://spanishfn.org/corpus) Corpus en Español
 
 ## 3) Lenguajes y Librerias
 
@@ -106,16 +106,33 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 #### Data scraping / Mineria de datos
 * [Scrapy](https://scrapy.org/) ``` pip install scrapy ```
 
-#### Aprendizaje Automatico
+#### Aprendizaje Automatico de uso general
 
 * [Scikit-Learn](http://scikit-learn.org/stable/)  ``` pip install scikit-learn ```
 * [TensorFlow](https://www.tensorflow.org/install/) 
+* [Pylearn2](https://github.com/lisa-lab/pylearn2) - Libreria basado en Theano.
+* [keras](https://github.com/fchollet/keras)
+* [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK)
+
+##### Visión computacional
+
+* [Scikit-Image](https://github.com/scikit-image/scikit-image) 
+* [SimpleCV](http://simplecv.org/) 
+* [OpenFace](https://cmusatyalab.github.io/openface/)
+* [PCV](https://github.com/jesolem/PCV)
+* [face_recognition](https://github.com/ageitgey/face_recognition) 
+
+#### Aprendizaje por refuerzo
+* [DeepMind Lab](https://github.com/deepmind/lab)
+* [Gym](https://github.com/openai/gym) 
 
 #### Visualización de datos
 * [Matplotlib](https://matplotlib.org/) ``` python -mpip install -U matplotlib ```
 
 #### Procesamiento de Lenguaje Natural
+* [NLTK](http://www.nltk.org/) 
 * [Textblob](http://textblob.readthedocs.io/en/dev/) ``` pip install textblob ```
+* [Rasa-NLU](http://textblob.readthedocs.io/en/dev/) ``` pip install rasa_nlu ```
 
 
 ### R
@@ -132,6 +149,17 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 4) APIs
 
 ### Uso general
+
+* [IBM Watson](https://www.ibm.com/watson/)
+* [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+* [Google Cloud Platform](https://cloud.google.com/products/)
+
+### Procesamiento de Lenguaje Natural
+* [DialogFlow](https://dialogflow.com/)
+* [BotLibre](https://www.botlibre.com/)
+
+
+
 
 ## 5) Herramientas
 
