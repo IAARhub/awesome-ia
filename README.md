@@ -74,7 +74,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) 
 * [Google Public Datasets](https://www.google.com/publicdata/directory) 
 * [Datahub](https://datahub.io/#showcase) 
-
+* [Data Banco Mundial](https://data.worldbank.org/) 
 
 
 ### Corpuses
@@ -97,8 +97,23 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Anaconda](https://anaconda.org/anaconda/python)  
 
 #### Funciones matematicas
-* Numpy ``` pip install numpy ```
-* Panda ``` pip install panda ```
+* [Numpy](http://www.numpy.org/)  ``` pip install numpy ```
+* [SciPy](https://www.scipy.org/)  ``` pip install scipy ```
+* [Pandas](https://pandas.pydata.org/) ``` pip install pandas ```
+
+#### Data scraping / Mineria de datos
+* [Scrapy](https://scrapy.org/) ``` pip install scrapy ```
+
+#### Aprendizaje Automatico
+
+* [Scikit-Learn](http://scikit-learn.org/stable/)  ``` pip install scikit-learn ```
+* [TensorFlow](https://www.tensorflow.org/install/) 
+
+#### Visualización de datos
+* [Matplotlib](https://matplotlib.org/) ``` python -mpip install -U matplotlib ```
+
+#### Procesamiento de Lenguaje Natural
+* [Textblob](http://textblob.readthedocs.io/en/dev/) ``` pip install textblob ```
 
 
 ### R
@@ -112,7 +127,6 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 5) Herramientas
 
 ### Data scrapping 
-* Scrapy
 * Import.io
 
 ### Preprocesamiento de datos
