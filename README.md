@@ -10,22 +10,24 @@ Lista curada de recursos en Inteligencia Artificial.
 El propósito de este listado es facilitar a la comunidad de IA en español el acceso de recursos e información relacionada a la Inteligencia Articial y sus disciplinas relacionadas de una manera curada y ordenada.
 
 
-
 ## Tabla de contenido
 
 1. Recursos de investigación
 2. Datasets
-3. Papers
-4. Whitepapers
-5. Carreras
-6. Cursos
-7. Libros
-8. Tutoriales
-9. Canales de youtube
-10. Magazines
-11. Organizaciones
-12. Meetups
-13. Películas y otros
+3. Librerias
+4. APIs
+5. Herramientas
+6. Papers
+7. Whitepapers
+8. Carreras
+9. Cursos
+10. Libros
+11. Tutoriales
+12. Canales de youtube
+13. Magazines
+14. Organizaciones
+15. Meetups
+16. Películas y otros
 
 ## 1) Recursos de investigación
 
@@ -52,6 +54,10 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [WorldCat](https://www.worldcat.org/) Motor de búsqueda de libros por disciplina.
 * [Google Scholar](https://scholar.google.com/) Motor de búsqueda de Google especializado en material académico.
 * [Microsoft Academic](https://academic.microsoft.com/) Motor de búsqueda de Microsoft de biblografía académica, separado por tópicos y subtópicos en función de la diferentes disciplinas academicas.
+* [Google Trends](https://trends.google.com)
+* [Sentiment Viz](https://trends.google.com)
+* [RiteTag](https://ritetag.com/hashtag-search?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BUzj%2FlpmvQDyupLpsYHGS7w%3D%3D) Herramienta para saber cuan usado es un hashtag en twitter.
+
 
 
 ## 2) Datasets
@@ -63,6 +69,10 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [INDEC](https://www.indec.gov.ar/) 
 * [DataBuenosAires](https://data.buenosaires.gob.ar/) Datos abiertos del gobierno de la Ciudad A. de Buenos Aires.
 
+#### Global
+
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) 
+
 ### Corpuses
 
 #### Global
@@ -71,5 +81,32 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 #### En español
 * [TASS2015](http://www.sepln.org/workshops/tass/tass_data/download.php) Set de tweets en español con labels de sentimiento.
 * [Google N-Grams Español](https://aws.amazon.com/es/datasets/google-books-ngrams/) N-gramas de Google en Español
+* [Wikipedia Español](https://es.wikipedia.org/wiki/Wikipedia:Descargas)
+* [Spanish FrameNet](http://spanishfn.org/corpus)
+
+## 3) Librerias
+
+### Python
+
+### R
+
+### Javascript
+
+### GO
+
+## 4) APIs
+
+## 5) Herramientas
+
+### Preprocesamiento de datos
+
+### Visualización de datos
+
+* Tableau
+* PowerBI
+
+## 6) Papers
+
+## 7) Whitepapers
 
 
