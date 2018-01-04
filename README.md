@@ -215,6 +215,9 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+#### Ciencia de datos
+* [Ciencia de datos Agil](http://www.7puentes.com/ciencia-de-datos-agil/)
+
 #### Procesamiento del lenguaje humano
 * [Nuevos retos en las tecnologías del lenguaje humano](https://miriadax.net/web/mooc-tlh-nuevos-retos-en-las-tecnologias-del-lenguaje-humano)
 
