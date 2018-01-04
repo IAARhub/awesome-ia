@@ -248,6 +248,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 * [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [MIT](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PL1DmdxuyZtDS4o1ZabeVqpWvxmvyy7d8P)
 
 ## 13) Revistas
 
