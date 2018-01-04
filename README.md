@@ -227,7 +227,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 10) Libros
 
 ### Aprendizaje Automatico
-* [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) ](https://www.amazon.com/dp/1461471370/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1461471370&pd_rd_wg=RVKqe&pd_rd_r=5X4G9GW1PR485V4PEG4K&pd_rd_w=qLxoF)
+* [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) ](https://www.amazon.com/dp/1461471370/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1461471370&pd_rd_wg=RVKqe&pd_rd_r=5X4G9GW1PR485V4PEG4K&pd_rd_w=qLxoF) - Libro introductorio de aprendizaje automatica diseñado para perfiles técnicos y no tecnicos que cuenta con ejercicios prácticos en R.
+* [The elements of Statistical Learning](https://www.amazon.es/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) - Libro introductorio sobre aprendizaje automatico para perfiles técnicos.
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow) ](http://shop.oreilly.com/product/0636920052289.do)
 
 ### Aprendizaje Profundo
