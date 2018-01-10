@@ -62,7 +62,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 
 
-## 2) Datasets
+## 2) Datasets :bar_chart:
 
 ### Uso general
 
