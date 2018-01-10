@@ -29,7 +29,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 13. Magazines
 14. Organizaciones
 15. Meetups
-16. Películas y otros
+16. Investigadores
+17. Películas y otros
 
 ## 1) Recursos de investigación :mag_right:
 
@@ -284,5 +285,12 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 * [Culturas del transhumanismo critico](https://www.meetup.com/es-ES/Culturas-del-Transhumanismo-Critico/)
 
-## 16) Peliculas y otros.
+## 17) Investigadores y referentes.
+
+* [Guillermo Simari]()
+* [Andres Hohendadlh]()
+
+## 18) Peliculas y otros.
+
+* [BlackMirror]()
 
