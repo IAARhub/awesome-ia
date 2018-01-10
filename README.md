@@ -31,7 +31,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 15. Meetups
 16. Películas y otros
 
-## 1) Recursos de investigación
+## 1) Recursos de investigación :mag_right:
 
 ### Argentina
 * [Repositorios Digitales del Mincyt](http://repositoriosdigitales.mincyt.gob.ar:8380/dnet-web-generic/) Repositorio de material científico abierto Argentino.
@@ -90,7 +90,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Wikipedia Español](https://es.wikipedia.org/wiki/Wikipedia:Descargas) Articulos de Wikipedia en Español
 * [Spanish FrameNet](http://spanishfn.org/corpus) Corpus en Español
 
-## 3) Lenguajes y Librerias
+## 3) Lenguajes y Librerias :clipboard:
 
 ### Python
 * [Python](https://www.python.org/downloads/) Lenguaje de programación muy popular en Ciencia de Datos.
@@ -148,7 +148,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ### GO
 
-## 4) APIs
+## 4) APIs 
 
 ### Uso general
 
@@ -162,7 +162,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [WitAI](https://wit.ai/)
 
 
-## 5) Herramientas
+## 5) Herramientas :hammer:
 
 ### Data scraping / Mineria de datos
 * [Import.IO](https://www.import.io/)
@@ -180,7 +180,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [Blueprism](https://www.blueprism.com/)
 
 
-## 6) Papers
+## 6) Papers :mortar_board:
 
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
@@ -197,7 +197,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [UBA CS exactas, Maestría/Especialización en Explotación de Datos y Descubrimiento del Conocimiento] (http://datamining.dc.uba.ar/datamining/)
 
 
-## 9) Cursos
+## 9) Cursos :notebook_with_decorative_cover
 
 ### Presenciales
 * [Digital House Data Science](https://www.digitalhouse.com/curso/data-science/)
@@ -224,7 +224,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 #### Robotica
 * [Cognitive Neuroscience Robotics](https://www.edx.org/es/course/cognitive-neuroscience-robotics-part-osakaux-cnr101x)
 
-## 10) Libros
+## 10) Libros :books:
 
 ### Aprendizaje Automatico
 * [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics) ](https://www.amazon.com/dp/1461471370/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1461471370&pd_rd_wg=RVKqe&pd_rd_r=5X4G9GW1PR485V4PEG4K&pd_rd_w=qLxoF) - Libro introductorio de aprendizaje automatica diseñado para perfiles técnicos y no tecnicos que cuenta con ejercicios prácticos en R.
@@ -269,7 +269,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 
 
-#### Hispanohablante
+#### Hispanohablante :flags:
 * [Robotica Humanoide](https://www.facebook.com/groups/1713969502205911/)
 
 #### Global
