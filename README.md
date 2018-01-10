@@ -260,12 +260,16 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ### Comunidades de IA
 
-#### Argentina
-* [Inteligencia Artificial Argentina](https://www.facebook.com/groups/InteligenciaArtificialArgentina/)
-* [Data Science Argentina](https://www.facebook.com/groups/DataScienceArgentina)
+| País       | Nombre         | 
+| -------------  |:-------------:|
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") Argentina    | [Inteligencia Artificial Argentina](https://www.facebook.com/groups/InteligenciaArtificialArgentina/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") Argentina    | [Data Science Argentina](https://www.facebook.com/groups/DataScienceArgentina) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/br.png "Brazil") Brazil        | [ML, DL, BD - Brasil](https://www.facebook.com/machinelearningdeeplearningbrasil/) [IA & DL Brasil](https://www.facebook.com/groups/machinedeeplearningbrasil/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/br.png "Colombia") Colombia        | [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468/) |
+
+
 
 #### Hispanohablante
-* [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468/)
 * [Robotica Humanoide](https://www.facebook.com/groups/1713969502205911/)
 
 #### Global
