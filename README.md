@@ -15,24 +15,24 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## Tabla de contenido
 
 1. [Recursos de investigación](#investigación)
-2. Datasets
-3. Librerias
-4. APIs
-5. Herramientas
-6. Papers
-7. Whitepapers
-8. Carreras
-9. Cursos
-10. Libros
-11. Tutoriales
-12. Canales de youtube
-13. Magazines
-14. Organizaciones
-15. Meetups
-16. Investigadores
-17. Películas y otros
+2. [Datasets](#Datasets)
+3. [Librerias](#Librerias)
+4. [APIs](#APIs)
+5. [Herramientas](#Herramientas)
+6. [Papers](#Papers)
+7. [Whitepapers](#Whitepapers)
+8. [Carreras](#Carreras)
+9. [Cursos](#Cursos)
+10. [Libros](#Libros)
+11. [Tutoriales](#Tutoriales)
+12. [Canales de youtube](#youtube)
+13. [Magazines](#Magazines)
+14. [Organizaciones](#Organizaciones)
+15. [Meetups](#Meetups)
+16. [Investigadores](#Investigadores)
+17. [Películas y otros](#Películas)
 
-## 1) Recursos de investigación :mag_right:
+## 1) Recursos de investigación :mag_right: <a name="introduction"></a>
 
 ### Argentina
 
