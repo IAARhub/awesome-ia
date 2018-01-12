@@ -71,6 +71,9 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 * [DatosAr](http://datos.gob.ar/) Datos abiertos del gobierno Argentino.
 * [INDEC](https://www.indec.gov.ar/) 
 * [DataBuenosAires](https://data.buenosaires.gob.ar/) Datos abiertos del gobierno de la Ciudad A. de Buenos Aires.
+* [PaqueteAperturaDatosArg](http://paquete-apertura-datos.readthedocs.io/es/stable/index.html) Paquete de Apertura de Datos de la República Argentina
+* [INDEC GeoStats](https://www.indec.gov.ar/codgeo.asp) Unidades Geoestadísticas - Cartografía y códigos geográficos del Sistema Estadístico Nacional
+
 
 #### Global
 
@@ -174,6 +177,8 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 * [Tableau](https://www.tableau.com)
 * [PowerBI](https://powerbi.microsoft.com)
+* [MicroStrategy](https://www.microstrategy.com)
+
 
 ### Robotic Process Automation
 * [Kantu](https://a9t9.com/download)
