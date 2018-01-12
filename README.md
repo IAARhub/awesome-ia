@@ -14,7 +14,7 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 
 ## Tabla de contenido
 
-1. [Recursos de investigación](#Recursos de investigación)
+1. [Recursos de investigación](#investigación)
 2. Datasets
 3. Librerias
 4. APIs
