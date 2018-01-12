@@ -35,11 +35,16 @@ El propósito de este listado es facilitar a la comunidad de IA en español el a
 ## 1) Recursos de investigación :mag_right:
 
 ### Argentina
-* [Repositorios Digitales del Mincyt](http://repositoriosdigitales.mincyt.gob.ar:8380/dnet-web-generic/) Repositorio de material científico abierto Argentino.
-* [Biblioteca Electrónica del Mincyt](http://www.biblioteca.mincyt.gob.ar/) Catálogo Argentino de bibliografía científica.
-* [CONICET Digital](http://ri.conicet.gov.ar/) Repositorio abierto de material científico Argentino del CONICET.
-* [CONICET Search](http://www.conicet.gov.ar/new_scp/advancedsearch.php) Buscador de material científico Argentino propio del CONICET.
-* [Biblotecas Públicas CABA](http://catalogo.bibliotecas.gob.ar/pergamo/opac/cgi-bin/pgopac.cgi?form%3Fdefault) Motor de Búsqueda de libros en biblotecas públicas de CABA
+
+
+| Nombre        | Entidad       | Región  |
+| ------------- |:-------------:| -----:|
+| [Repositorios Digitales](http://repositoriosdigitales.mincyt.gob.ar:8380/dnet-web-generic/)     | Mincyt | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") |
+| [Biblioteca Electrónica](http://www.biblioteca.mincyt.gob.ar/)   | Mincyt     |  ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") |
+| [CONICET Digital](http://ri.conicet.gov.ar/)   |  CONICET     |  ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") |
+| [CONICET Search](http://www.conicet.gov.ar/new_scp/advancedsearch.php)   |  CONICET     |  ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") |
+| [Biblotecas Públicas CABA](http://catalogo.bibliotecas.gob.ar/pergamo/opac/cgi-bin/pgopac.cgi?form%3Fdefault)   |  GCBA    |  Bs. As. |
+
 
 ### Comunidad Hispaniparlante
 * [Academia](https://www.academia.edu/) Plataforma de búsqueda y publicación de material académico en castellano.
